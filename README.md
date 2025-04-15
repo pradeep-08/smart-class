@@ -1,0 +1,1 @@
+# Full Vite React TypeScript Tailwind App
